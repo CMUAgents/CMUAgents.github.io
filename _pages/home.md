@@ -6,10 +6,9 @@ subtitle: 24-880 • Spring 2026 • Carnegie Mellon University
 
 profile:
   align: right
-  image: cmu-logo.png
+  image: course_logo.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Carnegie Mellon University</p>
+  more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -36,9 +35,9 @@ Upon completion of the course students should be able to:
 - Apply AI agents to solve real-world engineering problems
 - Evaluate and optimize agent performance
 
-**Prerequisite Knowledge:**
+**Suggested Prerequisites:**
 
-Students should have a solid understanding of the following areas:
+Students should have an understanding of the following areas:
 - Programming: Proficiency in Python and object-oriented programming
 - Data Structures & Algorithms: Understanding of basic algorithms and complexity analysis
 - Machine Learning: Familiarity with basic ML concepts (regression, classification, neural networks)

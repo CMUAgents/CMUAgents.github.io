@@ -247,10 +247,13 @@ ul.task-list input[type="checkbox"] {
 // Navbar customization
 
 .navbar {
-  box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
-  opacity: 0.95;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: #C41230 !important;
+  opacity: 1;
+  min-height: 64px;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 .navbar .dropdown-menu,
@@ -298,24 +301,31 @@ ul.task-list input[type="checkbox"] {
   }
 
   .navbar-brand {
-    color: var(--global-text-color);
+    color: white !important;
+    font-weight: 600;
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: white !important;
+    font-weight: 500;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    transition: all 0.2s ease;
 
     &:hover {
-      color: var(--global-hover-color);
+      color: white !important;
+      background-color: rgba(0, 0, 0, 0.1);
     }
   }
 
   .navbar-nav .nav-item.active > .nav-link {
-    background-color: inherit;
+    background-color: rgba(0, 0, 0, 0.15);
     font-weight: bolder;
-    color: var(--global-theme-color);
+    color: white !important;
 
     &:hover {
-      color: var(--global-hover-color);
+      color: white !important;
+      background-color: rgba(0, 0, 0, 0.2);
     }
   }
 
@@ -362,7 +372,7 @@ ul.task-list input[type="checkbox"] {
     display: block;
     width: 22px;
     height: 2px;
-    background-color: var(--global-text-color);
+    background-color: white;
     border-radius: 1px;
     margin-bottom: 4px;
     transition: all 0.2s;
@@ -402,10 +412,19 @@ ul.task-list input[type="checkbox"] {
   padding: 0;
   border: 0;
   background-color: inherit;
-  color: var(--global-text-color);
+  color: white;
 
   &:hover {
-    color: var(--global-hover-color);
+    color: rgba(255, 255, 255, 0.8);
+  }
+}
+
+.navbar-light #light-toggle,
+.navbar-light #search-toggle {
+  color: white !important;
+
+  &:hover {
+    color: rgba(255, 255, 255, 0.8) !important;
   }
 }
 
@@ -978,7 +997,7 @@ progress {
   /* Positioning */
   position: fixed;
   left: 0;
-  top: 56px;
+  top: 64px;
   z-index: 10;
 
   /* Dimensions */
@@ -1016,7 +1035,7 @@ progress::-moz-progress-bar {
   width: 100%;
   background-color: transparent;
   position: fixed;
-  top: 56px;
+  top: 64px;
   left: 0;
   height: 5px;
   display: block;
