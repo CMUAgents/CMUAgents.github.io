@@ -26,7 +26,7 @@ nav_order: 2
 
 <tr class="{{ event_type }}">
     <th scope="row">{{ lecture.date }}</th>
-    {% if lecture.recitation != blank %} 
+    {% if lecture.recitation != blank %}
     {% assign recitation_count = recitation_count | plus: 1 %}
     {%endif%}
     {% if lecture.title contains 'No class' or lecture.title contains 'cancelled' or lecture.title contains 'Buffer' %}
@@ -50,6 +50,7 @@ nav_order: 2
         {% if lecture.recitation %}
             <br />{{ lecture.recitation }}<br />
         {% endif %}
+        <!-- Brackets and slides commented out - still working on them
         [
             {% if lecture.slides %}
               <a href="{{ lecture.slides }}" target="_blank">slides</a>
@@ -62,10 +63,11 @@ nav_order: 2
             {% if lecture.annotated %}
               (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
             {% endif %}
+            -->
             {% if lecture.video %}
-            | <a href="{{ lecture.video }}" target="_blank">video</a>
+            <a href="{{ lecture.video }}" target="_blank">video</a>
             {% else %}
-            <!-- | video -->
+            <!-- video -->
             {% endif %}
             {% if lecture.notes %}
             | <a href="{{ lecture.notes }}" target="_blank">notes</a>
@@ -73,7 +75,8 @@ nav_order: 2
             {% if lecture.notes2 %}
               | <a href="{{ lecture.notes2 }}" target="_blank">notes 2</a>
             {% endif %}
-        ]
+        <!-- ]
+        -->
     </td>
     <td>
         {% if lecture.readings %}
