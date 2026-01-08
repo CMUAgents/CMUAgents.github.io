@@ -6,10 +6,10 @@ nav: true
 nav_order: 1
 ---
 
-* (The list will be replaced with the table of contents.)
-{:toc}
+- (The list will be replaced with the table of contents.)
+  {:toc}
 
-***
+---
 
 ## Course Information
 
@@ -20,7 +20,7 @@ Location: [TBD]
 **Zoom Link:**
 [TBD]
 
-***
+---
 
 ## Course Description
 
@@ -30,7 +30,7 @@ The course covers the fundamentals of LLM architectures, fine-tuning and prompti
 
 Through hands-on projects and case studies, students will apply LLMs to domains including mechanical design, materials discovery, systems engineering, and computational applications. The course balances technical depth with practical implementation, preparing students to both understand the capabilities and limitations of LLMs and to build domain-specific, AI-driven systems that enhance engineering innovation.
 
-***
+---
 
 ## Instructors and Teaching Assistants
 
@@ -40,7 +40,7 @@ Through hands-on projects and case studies, students will apply LLMs to domains 
 **Teaching Assistants:**
 [Peter Pak](https://www.linkedin.com/in/ppak10/) - Office Hours: [Day/Time] ([Zoom Link TBD])
 
-***
+---
 
 <!-- ## Prerequisites
 
@@ -64,13 +64,14 @@ There is no single required textbook for this course. Lectures will draw from va
 - Online resources from OpenAI, Anthropic, Meta AI, and other LLM providers
 - Documentation for frameworks: LangChain, AutoGen, CrewAI
 
-***
+---
 
 ## Programming and Tools
 
 We will use **Python** for all assignments in this course. Python is a powerful general-purpose programming language that, with libraries like numpy, transformers, and langchain, becomes an excellent environment for building AI agents.
 
 You will work with:
+
 - **LLM APIs** (OpenAI, Anthropic, etc.)
 - **Agent Frameworks** (LangChain, AutoGen, CrewAI)
 - **Jupyter Notebooks** for assignments and demonstrations
@@ -80,7 +81,7 @@ You will work with:
 
 [Computing resources information TBD - may include cloud credits, GPU access, etc.]
 
-***
+---
 
 <!-- ## Assignments
 
@@ -125,7 +126,7 @@ Course grades will be based on:
 - Name files logically and include a readme.txt
 - Failure to follow procedures will result in grade penalties
 
-***
+---
 
 <!-- ## Late Submission Policy
 
@@ -178,7 +179,7 @@ If you have a disability and are registered with the Office of Disability Resour
 
 If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, I encourage you to contact them at [access@andrew.cmu.edu](mailto:access@andrew.cmu.edu).
 
-***
+---
 
 ## Statement of Support for Students' Health and Well-being
 
@@ -186,7 +187,7 @@ Take care of yourself. Do your best to maintain a healthy lifestyle this semeste
 
 If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) is here to help: call **412-268-2922** and visit [http://www.cmu.edu/counseling/](http://www.cmu.edu/counseling/). Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help.
 
-***
+---
 
 ## Additional Resources
 
@@ -195,6 +196,6 @@ If you or anyone you know experiences any academic stress, difficult life events
 - **Gradescope**: Assignment submission and grading
 - **Office Hours**: See course calendar for times and Zoom links
 
-***
+---
 
-*This page will be updated throughout the semester. Check back regularly for updates.*
+_This page will be updated throughout the semester. Check back regularly for updates._
