@@ -1,4 +1,4 @@
-Session,Date,Day,Topic,Details,Reads,Assignment,In class Practice,Quizz,Slides,Assignment
+Session,Date,Day,Topic,Details,Reads,In class Practice,Quiz,Slides,Assignment,Release Date,Deadline
 Session 1,"January 13, 2026",Tuesday,Introduction to LLMs and Engineering Applications,"o        Language Modeling
 o        History and evolution of LLMs
 o        Use cases in engineering
@@ -6,7 +6,7 @@ o        Overview of the course
 ","Brown et al. (2020), Language Models are Few-Shot Learners (GPT-3)
 Bommasani et al. (2021), On the Opportunities and Risks of Foundation Models
 Kaplan et al. (2020), Scaling Laws for Neural Language Models
-OpenAI blog: Engineering Use Cases of GPT",,,,https://docs.google.com/presentation/d/12lvf-gQvn0KMxWCE5eNXRhlhI62Mqs_YPyhv_vezXks/edit?slide=id.g3aa305756e4_2_65#slide=id.g3aa305756e4_2_65,Intro to Python and LLM Environments
+OpenAI blog: Engineering Use Cases of GPT",,,https://docs.google.com/presentation/d/12lvf-gQvn0KMxWCE5eNXRhlhI62Mqs_YPyhv_vezXks/edit?slide=id.g3aa305756e4_2_65#slide=id.g3aa305756e4_2_65,Intro to Python and LLM Environments,"January 13, 2026","January 21, 2026"
 Session 2,"January 15, 2026",Thursday,Transformer Architecture Deep Dive,"o        Attention mechanism
 o        Positional encoding
 o        Scaling laws and model capacity
@@ -14,7 +14,7 @@ o        Context Window
 o        Attention Sink
 ","Vaswani et al. (2017), Attention Is All You Need
 Al-Rfou et al. (2019), Character-Level Language Modeling with Transformer
-Illustrated Transformer (by Jay Alammar)",,,,https://docs.google.com/presentation/d/1viwuLuO6gTj5ExrMDaXjHHSXfxSPAhEqqrv95mdMC5g/edit?slide=id.p#slide=id.p,
+Illustrated Transformer (by Jay Alammar)",,,https://docs.google.com/presentation/d/1viwuLuO6gTj5ExrMDaXjHHSXfxSPAhEqqrv95mdMC5g/edit?slide=id.p#slide=id.p,,,
 Session 3,"January 20, 2026",Tuesday,Pretraining and Finetuning Paradigms,"o        Self-supervised learning
 o        Transfer learning
 o        Domain adaptation in engineering
@@ -23,22 +23,23 @@ o        Encoders: ELMO and BERT
 ","Devlin et al. (2018), BERT: Pre-training of Deep Bidirectional Transformers
 Raffel et al. (2020), Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5)
 Zhang et al. (2023), Instruction Tuning LLMs for Generalization
-Meta blog: LLaMA 2 technical report",,,,https://docs.google.com/presentation/d/1ngW7-v3pgvI7uZfHoqho9xTIgbmp7O5HaR2-d3UCkHk/edit?slide=id.g3aa4bd74a2d_2_1023#slide=id.g3aa4bd74a2d_2_1023,Probing the limitations and capabilities of LLMs
-Session 4,"January 22, 2026",Thursday,"Tokenization, Embeddings, and Representations","o	Byte-pair encoding, sentence piece
-o	Token-level vs. sentence-level embeddings
-o	Understanding what LLMs ""know""
-o	Scaling Law
-o	Context Window Efficiency","Sennrich et al. (2016), Neural Machine Translation of Rare Words with Subword Units
+Meta blog: LLaMA 2 technical report",,,https://docs.google.com/presentation/d/1ngW7-v3pgvI7uZfHoqho9xTIgbmp7O5HaR2-d3UCkHk/edit?slide=id.g3aa4bd74a2d_2_1023#slide=id.g3aa4bd74a2d_2_1023,Probing the limitations and capabilities of LLMs,"January 22, 2026","January 30, 2026"
+Session 4,"January 22, 2026",Thursday,"Tokenization, Embeddings, and Representations","oByte-pair encoding, sentence piece
+oToken-level vs. sentence-level embeddings
+oUnderstanding what LLMs ""know""
+oScaling Law
+oContext Window Efficiency
+","Sennrich et al. (2016), Neural Machine Translation of Rare Words with Subword Units
 Mikolov et al. (2013), Word2Vec: Efficient Estimation of Word Representations
 Reimers & Gurevych (2019), Sentence-BERT: Sentence Embeddings using Siamese Networks
-OpenAI Cookbook: Understanding Tokenization",,,,,
+OpenAI Cookbook: Understanding Tokenization",,,,,,
 Session 5,"January 27, 2026",Tuesday,"Prompting 101: Zero-shot, Few-shot, and Chain-of-Thought","o        AI Titans: OpenAI GPT-4, Meta LLaMA, Anthropic Claude, Google Gemini, Mistral AI, and xAI Grok
 o        Chain of Thoughts (CoT), Few Shot Learning, Zero Shot Learning
 o        Prompt templates for engineering problems
 ","Kojima et al. (2022), Large Language Models are Zero-Shot Reasoners
 Wei et al. (2022), Chain-of-Thought Prompting Elicits Reasoning in LLMs
 OpenAI Cookbook: Best Practices for Prompt Engineering
-Zelikman et al. (2022), STaR: Self-Taught Reasoner",,,,,
+Zelikman et al. (2022), STaR: Self-Taught Reasoner",,,,"Prompt Engineering, CoT and Zero shot Learning","February 1, 2026","February 8, 2026"
 Session 6,"January 29, 2026",Thursday,"Agent Architectures (1): ReAct, LangChain, and Autogen, MCP, CrewAI","o        Planning, memory, execution
 o        Multi-agent collaboration
 o        Task decomposition and reasoning chains
@@ -46,29 +47,51 @@ o        Task decomposition and reasoning chains
 ","Yao et al. (2022), ReAct: Synergizing Reasoning and Acting in Language Models
 Microsoft Research (2023), Autogen: Enabling Multi-Agent Conversations
 CrewAI Docs: https://docs.crewai.com
-LangChain Docs: Agent Executors and Planning",,,,,
+LangChain Docs: Agent Executors and Planning",,,,,,
 Session 7,"February 3, 2026",Tuesday,"Agent Architectures (2): ReAct, LangChain, and Autogen, MCP, CrewAI","o        Autogen, CrewAI, MCP, LangChain","Microsoft Research (2023), Autogen: Enabling Multi-Agent Conversations
 CrewAI Docs: https://docs.crewai.com
-LangChain Docs: Agent Executors and Planning",,,,,
-Session 8,"February 5, 2026",Thursday,Retrieval-Augmented Generation (RAG) and Human Feedback,"o	Embedding search + context injection
-o	Applications to standards, datasheets, and manuals
-o	RAG
-o	SFT
-o	RLHF","Lewis et al. (2020), Retrieval-Augmented Generation for Knowledge-Intensive NLP
+LangChain Docs: Agent Executors and Planning",,,,Building a simple AI Agent ,"February 8, 2026","February 15, 2026"
+Session 8,"February 5, 2026",Thursday,Retrieval-Augmented Generation (RAG) and Human Feedback,"oEmbedding search + context injection
+oApplications to standards, datasheets, and manuals
+oRAG
+oSFT
+oRLHF
+","Lewis et al. (2020), Retrieval-Augmented Generation for Knowledge-Intensive NLP
 Bai et al. (2022), Training a Helpful and Harmless Assistant with RLHF
 OpenAI Cookbook: RAG and Embeddings
-Anthropic blog: Fine-tuning vs RLHF vs SFT",,,,,
-Session 9,"February 10, 2026",Tuesday,Tool Use and Function Calling with LLMs,"Function Calling Model 
+Anthropic blog: Fine-tuning vs RLHF vs SFT",,,,,,
+Session 9,"February 10, 2026",Tuesday,Tool Use and Function Calling with LLMs,"Function Calling Model
 Benchmarking Agent Tool Use and Function Calling
 Interacting with APIs
 OpenAI's Function Calling
 How to call functions with chat models
 Pushing ChatGPT's Structured Data Support To Its Limits
-Math Problem Solving with Function Calling","“Foundation Models for Decision Making” (Stanford, 2023)
-“A Survey of LLM Agents: Towards Reasoning, Tool Use, and Planning” (2024)
-“A Survey on Tool-Augmented LLMs” (2024)
-“Agents in the Foundation Model Era: A Survey” (2025)",,,,,
-Session 10,"February 12, 2026",Thursday,Design Automation and CAD Integration,Query2CAD: Generating CAD models using natural language queries,Generative AI for CAD Automation: Leveraging Large Language Models for 3D Modelling (2025),,,,,
-Session 11,"February 17, 2026",Tuesday,Memory and State in LLM Agents,,,,,,,
-Session 12,"February 19, 2026",Thursday,Open Source LLM Models,,,,,,,
-Session 13,"February 24, 2026",Tuesday,Manufacturing Process Control Agent,LLM 3D Print,,,,,,
+Math Problem Solving with Function Calling",""Foundation Models for Decision Making" (Stanford, 2023)
+"A Survey of LLM Agents: Towards Reasoning, Tool Use, and Planning" (2024)
+"A Survey on Tool-Augmented LLMs" (2024)
+"Agents in the Foundation Model Era: A Survey" (2025)",,,,,,
+Session 10,"February 12, 2026",Thursday,Memory and State in LLM Agents,,,,,,,,
+Session 11,"February 17, 2026",Tuesday,Open Source LLM Models and Finetuning,"Llama, Qwen, etc.",,,,,,,
+Session 12,"February 19, 2026",Thursday,AMGPT:A large language model for contextual querying in additive manufacturing,"AMGPT: A large language model for contextual querying in additive manufacturing,
+Additive Manufacturing Letters,
+Volume 11,
+2024,
+100232,",,,,,,,
+Session 13,"February 24, 2026",Tuesday,Design Automation and CAD Integration,Query2CAD: Generating CAD models using natural language queries,Generative AI for CAD Automation: Leveraging Large Language Models for 3D Modelling (2025),,,,,,
+Session 14,"February 26, 2026",Thursday,Manufacturing Process Control Agent,3D print -LLM: ,,,,,,,
+Spring Break,"March 3, 2026",Spring Break,Spring Break,Spring Break,Spring Break,,,,,,
+Spring Break,"March 5, 2026",Spring Break,Spring Break,Spring Break,Spring Break,,,,,,
+Session 15,"March 10, 2026",Tuesday,Vector Databases and LLMs,"Vector Embedding, Embedding Search, Maximal Marginal Relevance (MMR), FAISS, ChromaDB, PineCone, API Calling",,,,,,,
+Session 16,"March 12, 2026",Thursday,Coding and Simulation Assistants,,,,,,,,
+Session 17,"March 17, 2026",Tuesday,Agentic Alloy Discovery,"MCP Servers with Python Package Index (PyPi), Thermocalc Integration",,,,,,,
+Session 18,"March 19, 2026",Thursday,Scientific Reasoning with LLMs,,,,,,,,
+Session 19,"March 24, 2026",Tuesday,"Agent Safety, Bias and Gaurdrailing",,,,,,,,
+Session 20,"March 26, 2026",Thursday,"VLM Agents, Multilmodal Agents",,,,,,,,
+Session 21,"March 31, 2026",Tuesday,AI Agents for Robotics,,,,,,,,
+Session 22,"April 2, 2026",Thursday,AI Agents for Material/Molecule Discovery,,,,,,,,
+Session 23,"April 7, 2026",Tuesday,AI Agents for Computational Fluid Dynamics and Finite Eleent Analysis,,,,,,,,
+Carnival,"April 9, 2026",Thursday,,,,,,,,,
+Session 24,"April 14, 2026",Tuesday,AI Agents for Massive Document Processing,,,,,,,,
+Session 25,"April 16, 2026",Thursday,"AI Agent Workshop (Langchain, CrewAI, MCP, etc.)",,,,,,,,
+Session 26,"April 21, 2026",Tuesday,Project Presentations #1,,,,,,,,
+Session 27,"April 23, 2026",Thursday,Project Presentations #2,,,,,,,,

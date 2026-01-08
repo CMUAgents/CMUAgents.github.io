@@ -9,7 +9,8 @@
     - Brown et al. (2020), <a href="https://arxiv.org/abs/2005.14165" target="_blank">Language Models are Few-Shot Learners (GPT-3)</a>
     - Bommasani et al. (2021), <a href="https://arxiv.org/abs/2108.07258" target="_blank">On the Opportunities and Risks of Foundation Models</a>
     - Kaplan et al. (2020), <a href="https://arxiv.org/abs/2001.08361" target="_blank">Scaling Laws for Neural Language Models</a>
-  logistics:
+    - <a href="https://openai.com/research" target="_blank">OpenAI blog - Engineering Use Cases of GPT</a>
+  logistics: Assignment - Intro to Python and LLM Environments (Due 01/21)
 
 - date: Th 01/15
   lecturer:
@@ -35,6 +36,7 @@
     - Devlin et al. (2018), <a href="https://arxiv.org/abs/1810.04805" target="_blank">BERT - Pre-training of Deep Bidirectional Transformers</a>
     - Raffel et al. (2020), <a href="https://arxiv.org/abs/1910.10683" target="_blank">Exploring the Limits of Transfer Learning with T5</a>
     - Zhang et al. (2023), <a href="https://arxiv.org/abs/2308.12950" target="_blank">Instruction Tuning LLMs for Generalization</a>
+    - <a href="https://ai.meta.com/llama/" target="_blank">Meta blog - LLaMA 2 technical report</a>
   logistics:
 
 - date: Th 01/22
@@ -48,7 +50,8 @@
     - Sennrich et al. (2016), <a href="https://arxiv.org/abs/1508.07909" target="_blank">Neural Machine Translation of Rare Words with Subword Units</a>
     - Mikolov et al. (2013), <a href="https://arxiv.org/abs/1301.3781" target="_blank">Word2Vec - Efficient Estimation of Word Representations</a>
     - Reimers & Gurevych (2019), <a href="https://arxiv.org/abs/1908.10084" target="_blank">Sentence-BERT - Sentence Embeddings using Siamese Networks</a>
-  logistics:
+    - <a href="https://cookbook.openai.com/examples/how_to_count_tokens_with_tiktoken" target="_blank">OpenAI Cookbook - Understanding Tokenization</a>
+  logistics: Assignment - Probing the limitations and capabilities of LLMs (Released 01/22, Due 01/30)
 
 - date: Tu 01/27
   lecturer:
@@ -60,6 +63,7 @@
   readings:
     - Kojima et al. (2022), <a href="https://arxiv.org/abs/2205.11916" target="_blank">Large Language Models are Zero-Shot Reasoners</a>
     - Wei et al. (2022), <a href="https://arxiv.org/abs/2201.11903" target="_blank">Chain-of-Thought Prompting Elicits Reasoning in LLMs</a>
+    - <a href="https://cookbook.openai.com/" target="_blank">OpenAI Cookbook - Best Practices for Prompt Engineering</a>
     - Zelikman et al. (2022), <a href="https://arxiv.org/abs/2203.14465" target="_blank">STaR - Self-Taught Reasoner</a>
   logistics:
 
@@ -75,7 +79,7 @@
     - Microsoft Research (2023), <a href="https://arxiv.org/abs/2308.08155" target="_blank">Autogen - Enabling Multi-Agent Conversations</a>
     - <a href="https://docs.crewai.com" target="_blank">CrewAI Documentation</a>
     - <a href="https://python.langchain.com/docs/modules/agents/" target="_blank">LangChain Docs - Agent Executors and Planning</a>
-  logistics:
+  logistics: Assignment - Prompt Engineering, CoT and Zero shot Learning (Released 02/01, Due 02/08)
 
 - date: Tu 02/03
   lecturer:
@@ -100,7 +104,9 @@
   readings:
     - Lewis et al. (2020), <a href="https://arxiv.org/abs/2005.11401" target="_blank">Retrieval-Augmented Generation for Knowledge-Intensive NLP</a>
     - Bai et al. (2022), <a href="https://arxiv.org/abs/2204.05862" target="_blank">Training a Helpful and Harmless Assistant with RLHF</a>
-  logistics:
+    - <a href="https://cookbook.openai.com/" target="_blank">OpenAI Cookbook - RAG and Embeddings</a>
+    - <a href="https://www.anthropic.com/research" target="_blank">Anthropic blog - Fine-tuning vs RLHF vs SFT</a>
+  logistics: Assignment - Building a simple AI Agent (Released 02/08, Due 02/15)
 
 - date: Tu 02/10
   lecturer:
@@ -113,9 +119,40 @@
     - (2023), <a href="https://arxiv.org/abs/2307.16789" target="_blank">Foundation Models for Decision Making (Stanford)</a>
     - (2024), <a href="https://arxiv.org/abs/2404.11584" target="_blank">A Survey of LLM Agents - Reasoning, Tool Use, and Planning</a>
     - (2024), <a href="https://arxiv.org/abs/2401.05788" target="_blank">A Survey on Tool-Augmented LLMs</a>
+    - (2025), <a href="#" target="_blank">Agents in the Foundation Model Era - A Survey</a>
   logistics:
 
 - date: Th 02/12
+  lecturer:
+  title: >
+    <strong>Memory and State in LLM Agents</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Tu 02/17
+  lecturer:
+  title: >
+    <strong>Open Source LLM Models and Finetuning</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Th 02/19
+  lecturer:
+  title: >
+    <strong>AMGPT: A large language model for contextual querying in additive manufacturing</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Tu 02/24
   lecturer:
   title: >
     <strong>Design Automation and CAD Integration</strong>
@@ -126,30 +163,155 @@
     - (2025), <a href="#" target="_blank">Generative AI for CAD Automation - Leveraging Large Language Models for 3D Modelling</a>
   logistics:
 
-- date: Tu 02/17
-  lecturer:
-  title: >
-    <strong>Memory and State in LLM Agents</strong>
-  slides:
-  video:
-  notes:
-  readings:
-  logistics:
-
-- date: Th 02/19
-  lecturer:
-  title: >
-    <strong>Open Source LLM Models</strong>
-  slides:
-  video:
-  notes:
-  readings:
-  logistics:
-
-- date: Tu 02/24
+- date: Th 02/26
   lecturer:
   title: >
     <strong>Manufacturing Process Control Agent</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Tu 03/03
+  title: >
+    <strong>Spring Break - No Class</strong>
+  logistics:
+
+- date: Th 03/05
+  title: >
+    <strong>Spring Break - No Class</strong>
+  logistics:
+
+- date: Tu 03/10
+  lecturer:
+  title: >
+    <strong>Vector Databases and LLMs</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Th 03/12
+  lecturer:
+  title: >
+    <strong>Coding and Simulation Assistants</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Tu 03/17
+  lecturer:
+  title: >
+    <strong>Agentic Alloy Discovery</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Th 03/19
+  lecturer:
+  title: >
+    <strong>Scientific Reasoning with LLMs</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Tu 03/24
+  lecturer:
+  title: >
+    <strong>Agent Safety, Bias and Guardrailing</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Th 03/26
+  lecturer:
+  title: >
+    <strong>VLM Agents, Multimodal Agents</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Tu 03/31
+  lecturer:
+  title: >
+    <strong>AI Agents for Robotics</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Th 04/02
+  lecturer:
+  title: >
+    <strong>AI Agents for Material/Molecule Discovery</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Tu 04/07
+  lecturer:
+  title: >
+    <strong>AI Agents for Computational Fluid Dynamics and Finite Element Analysis</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Th 04/09
+  title: >
+    <strong>Carnival - No Class</strong>
+  logistics:
+
+- date: Tu 04/14
+  lecturer:
+  title: >
+    <strong>AI Agents for Massive Document Processing</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Th 04/16
+  lecturer:
+  title: >
+    <strong>AI Agent Workshop (Langchain, CrewAI, MCP, etc.)</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Tu 04/21
+  lecturer:
+  title: >
+    <strong>Project Presentations #1</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+- date: Th 04/23
+  lecturer:
+  title: >
+    <strong>Project Presentations #2</strong>
   slides:
   video:
   notes:
