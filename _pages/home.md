@@ -24,42 +24,34 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This course introduces engineering students to the fundamentals and applications of AI agents. Students will learn how to design, implement, and deploy intelligent agents that can interact with their environment, make decisions, and accomplish complex tasks autonomously.
+This course introduces graduate students and advanced undergraduates in engineering to the theory and practice of large language models (LLMs), with a focus on their application in engineering domains. Students will learn how to harness foundational models such as GPT, LLaMA, and Claude to solve real-world engineering problems, automate workflows, and build intelligent agents capable of reasoning, planning, and interacting with scientific tools and environments.
 
-**Course Goals:**
+The course covers the fundamentals of LLM architectures, fine-tuning and prompting strategies, and tool-augmented LLMs, including retrieval-augmented generation (RAG), function calling, and agent frameworks. Emphasis is placed on designing autonomous agents that can assist in engineering tasks such as data analysis, simulation control, documentation generation, code synthesis, and system optimization.
 
-Upon completion of the course students should be able to:
-
-- Understand the core concepts and architectures of AI agents
-- Implement AI agents using modern frameworks and tools
-- Design multi-agent systems and understand agent coordination
-- Apply AI agents to solve real-world engineering problems
-- Evaluate and optimize agent performance
+Through hands-on projects and case studies, students will apply LLMs to domains including mechanical design, materials discovery, systems engineering, and computational biology. The course balances technical depth with practical implementation, preparing students to both understand the capabilities and limitations of LLMs and to build domain-specific, AI-driven systems that enhance engineering innovation.
 
 **Suggested Prerequisites:**
 
-Students should have an understanding of the following areas:
+Students should have experience with one of the following:
 
-- Programming: Proficiency in Python and object-oriented programming
-- Data Structures & Algorithms: Understanding of basic algorithms and complexity analysis
-- Machine Learning: Familiarity with basic ML concepts (regression, classification, neural networks)
-- Mathematics: Linear algebra, probability, and calculus
+- (24-787) Artificial Intelligence and Machine Learning (or)
+- (10-701) Introduction to Machine Learning (or)
+- (11-785) Introduction to Deep Learning
 
-**Prerequisites:**
+Or equivalent coursework/experience in:
 
-- Prerequisites: [To be specified]
-- Minimum Grades: [To be specified]
-- Corequisites: None
-- Anti-requisites: None
-- Anti-req Prohibits: None
+- Programming (Python proficiency required)
+- Basic linear algebra and probability theory
+- Familiarity with neural networks and machine learning concepts
 
 ---
 
-- **Lectures:** [To be specified]
-- **Recitations:** [To be specified]
-- **Lecture/Recitation Location:** [To be specified]
-- **Discussion:** [To be specified]
-- **HW submission:** [To be specified]
-- **Contact:** [To be specified]
+- **Lectures:** Tuesdays & Thursdays: 2:00-3:50pm
+- **Location:** MI (Mellon Institute) 348
+- **Zoom Link:** [https://cmu.zoom.us/j/97208805281?pwd=eTB6bFo5dWM4UDdId2ZIVzBFczkyZz09](https://cmu.zoom.us/j/97208805281?pwd=eTB6bFo5dWM4UDdId2ZIVzBFczkyZz09)
+- **Discussion:** TBD (Piazza or similar)
+- **HW submission:** Gradescope
+- **Instructor:** [Amir Barati Farimani](https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html) ([barati@cmu.edu](mailto:barati@cmu.edu))
+- **TA:** [Peter Pak](https://www.linkedin.com/in/ppak10/) ([ppak@cmu.edu](mailto:ppak@cmu.edu))
 
 ---

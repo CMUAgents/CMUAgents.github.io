@@ -21,17 +21,17 @@ nav_order: 3
 | 9       | February 10, 2026 | Tuesday  | Tool Use and Function Calling with LLMs                                         |
 | 10      | February 12, 2026 | Thursday | Memory and State in LLM Agents                                                  |
 | 11      | February 17, 2026 | Tuesday  | Open Source LLM Models and Finetuning                                           |
-| 12      | February 19, 2026 | Thursday | AMGPT: A large language model for contextual querying in additive manufacturing |
+| 12      | February 19, 2026 | Thursday | AMGPT for Additive Manufacturing                                                |
 | 13      | February 24, 2026 | Tuesday  | Design Automation and CAD Integration                                           |
 | 14      | February 26, 2026 | Thursday | Manufacturing Process Control Agent                                             |
 | -       | March 3, 2026     | Tuesday  | **Spring Break**                                                                |
 | -       | March 5, 2026     | Thursday | **Spring Break**                                                                |
 | 15      | March 10, 2026    | Tuesday  | Vector Databases and LLMs                                                       |
 | 16      | March 12, 2026    | Thursday | Coding and Simulation Assistants                                                |
-| 17      | March 17, 2026    | Tuesday  | Agentic Alloy Discovery                                                         |
+| 17      | March 17, 2026    | Tuesday  | Agentic Alloy Evaluation                                                        |
 | 18      | March 19, 2026    | Thursday | Scientific Reasoning with LLMs                                                  |
-| 19      | March 24, 2026    | Tuesday  | Agent Safety, Bias and Gaurdrailing                                             |
-| 20      | March 26, 2026    | Thursday | VLM Agents, Multilmodal Agents                                                  |
+| 19      | March 24, 2026    | Tuesday  | Agent Safety, Bias and Guardrails                                               |
+| 20      | March 26, 2026    | Thursday | VLM and Multimodal Agents                                                       |
 | 21      | March 31, 2026    | Tuesday  | AI Agents for Robotics                                                          |
 | 22      | April 2, 2026     | Thursday | AI Agents for Material/Molecule Discovery                                       |
 | 23      | April 7, 2026     | Tuesday  | AI Agents for Computational Fluid Dynamics and Finite Element Analysis          |

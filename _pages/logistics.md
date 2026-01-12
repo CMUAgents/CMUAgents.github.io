@@ -6,19 +6,14 @@ nav: true
 nav_order: 1
 ---
 
-- (The list will be replaced with the table of contents.)
-  {:toc}
-
----
-
 ## Course Information
 
 **Class Time and Location:**
-[Day/Time TBD]
-Location: [TBD]
+Tuesdays & Thursdays: 2:00-3:50pm
+Location: MI (Mellon Institute) 348
 
 **Zoom Link:**
-[TBD]
+[https://cmu.zoom.us/j/97208805281?pwd=eTB6bFo5dWM4UDdId2ZIVzBFczkyZz09](https://cmu.zoom.us/j/97208805281?pwd=eTB6bFo5dWM4UDdId2ZIVzBFczkyZz09)
 
 ---
 
@@ -35,26 +30,14 @@ Through hands-on projects and case studies, students will apply LLMs to domains 
 ## Instructors and Teaching Assistants
 
 **Instructor:**
-[Amir Barati Farimani](https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html) - Office Hours: [Day/Time] ([Zoom Link TBD])
+[Amir Barati Farimani](https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html) ([barati@cmu.edu](mailto:barati@cmu.edu))
+Office Hours: Tuesdays: 1:00-2:00 pm ([Zoom Link](https://cmu.zoom.us/j/3122822860))
 
 **Teaching Assistants:**
-[Peter Pak](https://www.linkedin.com/in/ppak10/) - Office Hours: [Day/Time] ([Zoom Link TBD])
+[Peter Pak](https://www.linkedin.com/in/ppak10/) ([ppak@cmu.edu](mailto:ppak@cmu.edu))
+Office Hours: Tuesdays: 4:00 pm - 4:50 pm (Lecture Classroom)
 
 ---
-
-<!-- ## Prerequisites
-
-Students should have experience with one of the following:
-- Introduction to Machine Learning
-- Introduction to Artificial Intelligence
-- Introduction to Deep Learning
-
-Or equivalent coursework/experience in:
-- Programming (Python proficiency required)
-- Basic linear algebra and probability theory
-- Familiarity with neural networks and machine learning concepts
-
-*** -->
 
 ## Textbooks and Readings
 
@@ -79,29 +62,24 @@ You will work with:
 
 ### Computing Resources
 
-[Computing resources information TBD - may include cloud credits, GPU access, etc.]
+We will use Google Cloud services on [https://cloud.google.com/compute/docs/](https://cloud.google.com/compute/docs/). Please sign up for a free account on Google Cloud Platform. This platform has console with TensorFlow and PyTorch and is easy to use.
 
 ---
 
-<!-- ## Assignments
+## Assignments
 
-Most assignments will involve implementing AI agents and LLM-based systems. In a typical assignment, you will:
-- Implement techniques from lectures
-- Apply them to solve engineering problems
-- Document and test your implementations
-- Submit via **Jupyter Notebooks**
+Most of the assignments in this course will consist of a written component along with a programming component. In a typical assignment, you will explore a specific topic from the lecture and use it to solve a sample problem or further investigate it. You will be graded on the quality and completeness of your answers. We will use the Python programming language for all assignments in this course. Python is a great general-purpose programming language on its own, but with the help of a few popular libraries (numpy, scipy, matplotlib) it becomes a powerful environment for scientific computing. We expect that many of you will have some experience with Python and numpy; for the rest of you, we will provide a quick crash course both on the Python programming language and on the use of Python for scientific computing.
 
-Assignments will typically be given with two weeks to complete. Take advantage of this time by spreading out your effort - it's unlikely you'll be able to complete assignments the night before they're due.
+---
 
-*** -->
-
-<!-- ## Grading
+## Grading
 
 Course grades will be based on:
+
 - **40%** - Homework Assignments
-- **10%** - Quizzes
-- **10%** - Midterm
-- **40%** - Final Project
+- **10%** - Quizzes (In-Class)
+- **10%** - Midterm Exam
+- **40%** - Major Term Project
 
 ### Grading Scale
 
@@ -115,63 +93,46 @@ Course grades will be based on:
 - 60%-70% = D
 - 0%-60% = R
 
-*** -->
+---
 
 ## Submission Procedures
 
-- Follow submission instructions on each assignment
-- Combine all materials into a single organized PDF if submitting scans
-- Submit only the required files - do not include provided support files
-- Keep submission files under 20MB (use appropriate scan resolution)
-- Name files logically and include a readme.txt
-- Failure to follow procedures will result in grade penalties
+Submission procedure is explained for each assignment on its first page and handled through Gradescope. Please make sure to properly match to correct pages to each question. A failure to comply with these procedures will result in grade penalties.
 
 ---
 
-<!-- ## Late Submission Policy
+## Late Submission Policy
 
-Assignments are expected to be completed by the due date. However, each student will have a total of **seven (7) free late (calendar) days** to use throughout the semester.
+Assignments are expected to be completed by due date. Assignments submitted 4 days after the due date will not be accepted. Each student will have a total of **seven (7) free late (calendar) days** to use as s/he sees fit.
 
-- Once late days are exhausted, late homework will be **penalized 20% per late day**
-- No homework will be accepted more than **four days** after its due date
-- **Each 24 hours or part thereof uses one full late day**
+- Once these late days are exhausted, any homework turned in late will be **penalized 20% per late day**
+- However, no homework will be accepted more than **four days** after its due date
 - Late days **cannot be used** for the final project writeup
-- Assignments submitted more than 4 days late will not be accepted
+- **Each 24 hours or part thereof that a homework is late uses up one full late day**
 
-*** -->
+---
 
-<!-- ## Final Project
+## Project
 
-The final project is a major component of this course (40% of grade). You may work individually or in groups.
+The project expects each group or student to apply the topics and skills learned throughout the semester to develop an agentic system suitable for completing a proposed task (preferably engineering related). This task can be related to your research area (if you have one), however, do not submit anything you have completed prior to attending the course. You also should not submit a project that is largely a collaborative effort with people outside the course. For example, if your research involves other people in a larger project, you could propose to address a slightly different question in the same area (still related to your research) but one that you are pursuing alone or in collaboration with other students taking the course.
 
-### Project Requirements
+You can and are encouraged to collaborate with other students. If you do, we ask that you outline the role of each person in the project. Groups are expected to have a maximum of 3 members and projects involving more than one person will have to scale in "size" with the number of people.
 
-The project should involve:
-- Building an AI agent system for an engineering application
-- Original work (not previously completed research)
-- If working on research-related topics, focus on a new aspect pursued for this course
-- Groups must outline each member's role
+#### Proposal
 
-### Project Components
+For the project, each group or student need to submit a proposal. The project proposal should be one paragraph (200-400 words). If you work on your own project, your proposal should contain:
 
-**Proposal** (200-400 words)
-Your proposal should address:
-- What problem are you investigating and why is it interesting?
-- What method/algorithm/agent architecture are you proposing?
-- What data or tools will you use?
-- How will you evaluate your results?
-- What readings provide context and background?
+**What is the problem that you will be investigating? Why is it interesting? What method or algorithm are you proposing? If there are existing implementations, will you use them and how? How do you plan to improve or modify such implementations? What data will you use? If you are collecting new datasets, how do you plan to collect them? What reading will you examine to provide context and background? How will you evaluate your results? Qualitatively, what kind of results do you expect (e.g. plots or figures)? Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?**
 
-**Poster Presentation**
-- Public poster session at end of semester
-- TAs will evaluate quality, novelty, and presentation
+#### Presentation
 
-**Final Report** (6-8 pages)
-- Use provided template
-- Submit through Canvas
-- Due date: [TBD]
+Each student or group is required to present their project in a presentation form. Every member of the group is expected to attend for their 10 minute project presentation. The presentations will be held during the last two lectures sessions of the semester. TAs will evaluate the quality, novelty and the size of the project and its presentation quality.
 
-*** -->
+#### Report
+
+Your final write-up is required to be between 6 - 8 pages using the provided template (We will provide the template via Canvas). Please use this template so we can fairly judge all student projects without worrying about altered font sizes, margins, etc.
+
+---
 
 ## Accommodations for Students with Disabilities
 
