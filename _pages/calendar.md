@@ -43,7 +43,7 @@ nav_order: 3
 
 ---
 
-**Note:** Office hours and TA logistics information can be found on the [Home](/) page. Check Piazza for any updates to the schedule.
+**Note:** Office hours and TA logistics information can be found on the [Home](/) page. Check [Piazza](https://piazza.com/class/mjor87wmgvi5oz/) for any updates to the schedule.
 
 <!-- Google Calendar embed (if available) -->
 <!-- <iframe src="YOUR_GOOGLE_CALENDAR_EMBED_URL" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->

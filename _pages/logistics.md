@@ -13,7 +13,7 @@ Tuesdays & Thursdays: 2:00-3:50pm
 Location: MI (Mellon Institute) 348
 
 **Zoom Link:**
-[https://cmu.zoom.us/j/97208805281?pwd=eTB6bFo5dWM4UDdId2ZIVzBFczkyZz09](https://cmu.zoom.us/j/97208805281?pwd=eTB6bFo5dWM4UDdId2ZIVzBFczkyZz09)
+[https://cmu.zoom.us/j/91091708755?pwd=XpS0b513jrYTkEgGtrGAJ8d4c1bWVf.1](https://cmu.zoom.us/j/91091708755?pwd=XpS0b513jrYTkEgGtrGAJ8d4c1bWVf.1)
 
 ---
 
@@ -76,9 +76,8 @@ Most of the assignments in this course will consist of a written component along
 
 Course grades will be based on:
 
-- **40%** - Homework Assignments
+- **50%** - Homework Assignments
 - **10%** - Quizzes (In-Class)
-- **10%** - Midterm Exam
 - **40%** - Major Term Project
 
 ### Grading Scale
@@ -97,7 +96,7 @@ Course grades will be based on:
 
 ## Submission Procedures
 
-Submission procedure is explained for each assignment on its first page and handled through Gradescope. Please make sure to properly match to correct pages to each question. A failure to comply with these procedures will result in grade penalties.
+Submission procedure is explained for each assignment on its first page and handled through [Gradescope](https://www.gradescope.com/courses/1197538). Please make sure to properly match to correct pages to each question. A failure to comply with these procedures will result in grade penalties.
 
 ---
 
@@ -153,8 +152,8 @@ If you or anyone you know experiences any academic stress, difficult life events
 ## Additional Resources
 
 - **Canvas**: Course materials, assignments, grades
-- **Piazza**: Course discussion and announcements
-- **Gradescope**: Assignment submission and grading
+- **[Piazza](https://piazza.com/class/mjor87wmgvi5oz/)**: Course discussion and announcements
+- **[Gradescope](https://www.gradescope.com/courses/1197538)**: Assignment submission and grading
 - **Office Hours**: See course calendar for times and Zoom links
 
 ---

@@ -48,9 +48,9 @@ Or equivalent coursework/experience in:
 
 - **Lectures:** Tuesdays & Thursdays: 2:00-3:50pm
 - **Location:** MI (Mellon Institute) 348
-- **Zoom Link:** [https://cmu.zoom.us/j/97208805281?pwd=eTB6bFo5dWM4UDdId2ZIVzBFczkyZz09](https://cmu.zoom.us/j/97208805281?pwd=eTB6bFo5dWM4UDdId2ZIVzBFczkyZz09)
-- **Discussion:** TBD (Piazza or similar)
-- **HW submission:** Gradescope
+- **Zoom Link:** [https://cmu.zoom.us/j/91091708755?pwd=XpS0b513jrYTkEgGtrGAJ8d4c1bWVf.1](https://cmu.zoom.us/j/91091708755?pwd=XpS0b513jrYTkEgGtrGAJ8d4c1bWVf.1)
+- **Discussion:** [Piazza](https://piazza.com/class/mjor87wmgvi5oz/)
+- **HW submission:** [Gradescope](https://www.gradescope.com/courses/1197538)
 - **Instructor:** [Amir Barati Farimani](https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html) ([barati@cmu.edu](mailto:barati@cmu.edu))
 - **TA:** [Peter Pak](https://www.linkedin.com/in/ppak10/) ([ppak@cmu.edu](mailto:ppak@cmu.edu))
 

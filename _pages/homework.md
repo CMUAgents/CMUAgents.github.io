@@ -8,23 +8,25 @@ nav_order: 4
 
 ## Homework Assignments
 
-Homework assignments will be posted here throughout the semester. All assignments are to be submitted via Gradescope.
+Homework assignments will be posted here throughout the semester. All assignments are to be submitted via [Gradescope](https://www.gradescope.com/courses/1197538).
 
 ### Assignment Schedule
 
-- **Homework 1**: Intro to Python and LLM Environments
+- **Homework 0**: Course Primer
   - Released: January 13, 2026
   - Due: January 21, 2026
+  - [Download HW0]({{ site.baseurl }}/assets/zip/homework-0-course-primer-spring-2026-v2.zip)
 
-- **Homework 2**: Probing the limitations and capabilities of LLMs
+- **Homework 1**: Tokenization and Finetuning
   - Released: January 22, 2026
   - Due: January 30, 2026
+  - [Download HW1]({{ site.baseurl }}/assets/zip/homework-1-tokenization-and-finetuning-spring-2026-v0.zip)
 
-- **Homework 3**: Prompt Engineering, CoT and Zero shot Learning
+- **Homework 2**: Prompt Engineering, CoT and Zero shot Learning
   - Released: February 1, 2026
   - Due: February 8, 2026
 
-- **Homework 4**: Building a simple AI Agent
+- **Homework 3**: Building a simple AI Agent
   - Released: February 8, 2026
   - Due: February 15, 2026
 
@@ -44,7 +46,7 @@ Each student will have a total of **seven (7) free late (calendar) days** to use
 ### Submission Guidelines
 
 - Follow submission instructions on each assignment
-- Submit through Gradescope
+- Submit through [Gradescope](https://www.gradescope.com/courses/1197538)
 - Match pages to correct questions when submitting
 - Failure to comply with procedures will result in grade penalties
 

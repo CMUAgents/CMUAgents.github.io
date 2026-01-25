@@ -37,8 +37,8 @@ nav_order: 2
         <td colspan="4" align="center">{{ lecture.quiz }}<p align="right">{{ lecture.logistics }}</p></td>
     {% else %}
     <td>
-        {% if lecture.title %}
-            Lecture #{{ forloop.index | minus: current_module | minus: skip_classes | minus: recitation_count}}
+        {% if lecture.lecture_num %}
+            Lecture #{{ lecture.lecture_num }}
             {% if lecture.lecturer %}({{ lecture.lecturer }}){% endif %}:
         {% endif %}
         {% if lecture.title %}
