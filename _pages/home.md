@@ -53,5 +53,6 @@ Or equivalent coursework/experience in:
 - **HW submission:** [Gradescope](https://www.gradescope.com/courses/1197538)
 - **Instructor:** [Amir Barati Farimani](https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html) ([barati@cmu.edu](mailto:barati@cmu.edu))
 - **TA:** [Peter Pak](https://www.linkedin.com/in/ppak10/) ([ppak@cmu.edu](mailto:ppak@cmu.edu))
+- **CA:** Hardik Choudhary ([hchoudha@andrew.cmu.edu](mailto:hchoudha@andrew.cmu.edu))
 
 ---

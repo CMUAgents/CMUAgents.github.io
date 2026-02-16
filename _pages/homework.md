@@ -22,13 +22,20 @@ Homework assignments will be posted here throughout the semester. All assignment
   - Due: January 30, 2026
   - [Download HW1]({{ site.baseurl }}/assets/zip/homework-1-tokenization-and-finetuning-spring-2026-v0.zip)
 
-- **Homework 2**: Prompt Engineering, CoT and Zero shot Learning
+- **Homework 2**: Prompting and ReAct
   - Released: February 1, 2026
   - Due: February 8, 2026
+  - [Download HW2]({{ site.baseurl }}/assets/zip/homework-2-prompting-and-react-spring-2026-v3.zip)
 
-- **Homework 3**: Building a simple AI Agent
+- **Homework 3**: Agentic Frameworks
   - Released: February 8, 2026
   - Due: February 15, 2026
+  - [Download HW3]({{ site.baseurl }}/assets/zip/homework-3-agentic-frameworks-spring-2026-v0.zip)
+
+- **Homework 4**: RAG and Memory
+  - Released: February 15, 2026
+  - Due: February 22, 2026
+  - [Download HW4]({{ site.baseurl }}/assets/zip/homework-4-rag-and-memory-spring-2026-v0.zip)
 
 ---
 

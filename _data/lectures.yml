@@ -95,6 +95,10 @@
   title:
   logistics: <span class="badge badge-pill badge-danger">HW 1 Due</span>
 
+- date: Su 02/01
+  title:
+  logistics: <span class="badge badge-pill badge-success">HW 2 Released</span> - <a href="/assets/zip/homework-2-prompting-and-react-spring-2026-v3.zip">Prompting and ReAct</a>
+
 - date: Tu 02/03
   lecture_num: 7
   lecturer:
@@ -107,7 +111,7 @@
     - Microsoft Research (2023), <a href="https://arxiv.org/abs/2308.08155" target="_blank">Autogen - Enabling Multi-Agent Conversations</a>
     - <a href="https://docs.crewai.com" target="_blank">CrewAI Documentation</a>
     - <a href="https://python.langchain.com/docs/modules/agents/" target="_blank">LangChain Docs - Agent Executors and Planning</a>
-  logistics: <span class="badge badge-pill badge-success">HW 2 Released</span> - Prompt Engineering, CoT and Zero shot Learning
+  logistics:
 
 - date: Th 02/05
   lecture_num: 8
@@ -126,7 +130,7 @@
 
 - date: Su 02/08
   title:
-  logistics: <span class="badge badge-pill badge-danger">HW 2 Due</span>
+  logistics: <span class="badge badge-pill badge-danger">HW 2 Due</span> | <span class="badge badge-pill badge-success">HW 3 Released</span> - <a href="/assets/zip/homework-3-agentic-frameworks-spring-2026-v0.zip">Agentic Frameworks</a>
 
 - date: Tu 02/10
   lecture_num: 9
@@ -140,7 +144,7 @@
     - (2023), <a href="https://arxiv.org/abs/2307.16789" target="_blank">Foundation Models for Decision Making (Stanford)</a>
     - (2024), <a href="https://arxiv.org/abs/2404.11584" target="_blank">A Survey of LLM Agents - Reasoning, Tool Use, and Planning</a>
     - (2024), <a href="https://arxiv.org/abs/2401.05788" target="_blank">A Survey on Tool-Augmented LLMs</a>
-  logistics: <span class="badge badge-pill badge-success">HW 3 Released</span> - Building a simple AI Agent
+  logistics:
 
 - date: Th 02/12
   lecture_num: 10
@@ -155,7 +159,7 @@
 
 - date: Su 02/15
   title:
-  logistics: <span class="badge badge-pill badge-danger">HW 3 Due</span>
+  logistics: <span class="badge badge-pill badge-danger">HW 3 Due</span> | <span class="badge badge-pill badge-success">HW 4 Released</span> - <a href="/assets/zip/homework-4-rag-and-memory-spring-2026-v0.zip">RAG and Memory</a>
 
 - date: Tu 02/17
   lecture_num: 11
@@ -178,6 +182,10 @@
   notes:
   readings:
   logistics:
+
+- date: Su 02/22
+  title:
+  logistics: <span class="badge badge-pill badge-danger">HW 4 Due</span>
 
 - date: Tu 02/24
   lecture_num: 13
