@@ -37,6 +37,10 @@ Office Hours: Tuesdays: 1:00-2:00 pm ([Zoom Link](https://cmu.zoom.us/j/31228228
 [Peter Pak](https://www.linkedin.com/in/ppak10/) ([ppak@cmu.edu](mailto:ppak@cmu.edu))
 Office Hours: Tuesdays: 4:00 pm - 4:50 pm (Lecture Classroom)
 
+**Course Assistant:**
+Hardik Choudhary ([hchoudha@andrew.cmu.edu](mailto:hchoudha@andrew.cmu.edu))
+Office Hours: Wednesdays: 2:00 pm - 3:00 pm (Scaife 201)
+
 ---
 
 ## Textbooks and Readings
