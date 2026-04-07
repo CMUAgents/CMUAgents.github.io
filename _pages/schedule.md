@@ -285,7 +285,7 @@ nav_order: 2
   <th scope="row">Su 03/08</th>
   <td></td>
   <td></td>
-  <td><p><span class="badge badge-pill badge-success">HW 6 Released</span></p></td>
+  <td><p><span class="badge badge-pill badge-success">HW 6 Released</span> - <a href="/assets/zip/homework-6-agentic-manufacturing-spring-2026-v0.zip">Agentic Manufacturing</a></p></td>
 </tr>
 
 <tr class="upcoming">
@@ -308,7 +308,7 @@ nav_order: 2
   <th scope="row">Su 03/15</th>
   <td></td>
   <td></td>
-  <td><p><span class="badge badge-pill badge-danger">HW 6 Due</span> | <span class="badge badge-pill badge-success">HW 7 Released</span></p></td>
+  <td><p><span class="badge badge-pill badge-danger">HW 6 Due</span> | <span class="badge badge-pill badge-success">HW 7 Released</span> - <a href="/assets/zip/homework-7-databases-and-coding-assistants-spring-2026-v0.zip">Databases and Coding Assistants</a></p></td>
 </tr>
 
 <tr class="upcoming">
@@ -325,7 +325,7 @@ nav_order: 2
   <th scope="row">Su 03/22</th>
   <td></td>
   <td></td>
-  <td><p><span class="badge badge-pill badge-danger">HW 7 Due</span> | <span class="badge badge-pill badge-success">HW 8 Released</span></p></td>
+  <td><p><span class="badge badge-pill badge-danger">HW 7 Due</span> | <span class="badge badge-pill badge-success">HW 8 Released</span> - <a href="/assets/zip/homework-8-agents-for-scientific-discovery-spring-2026-v0.zip">Agents for Scientific Discovery</a></p></td>
 </tr>
 
 <tr class="upcoming">
@@ -366,7 +366,7 @@ nav_order: 2
   <th scope="row">Su 03/29</th>
   <td></td>
   <td></td>
-  <td><p><span class="badge badge-pill badge-danger">HW 8 Due</span> | <span class="badge badge-pill badge-success">HW 9 Released</span></p></td>
+  <td><p><span class="badge badge-pill badge-danger">HW 8 Due</span> | <span class="badge badge-pill badge-success">HW 9 Released</span> - <a href="/assets/zip/homework-9-vlm-and-safety-spring-2026-v0.zip">VLM and Safety</a></p></td>
 </tr>
 
 <tr class="upcoming">
@@ -375,7 +375,13 @@ nav_order: 2
     Lecture #19:<br />
     <strong>Agent Safety, Bias, and Guardrails</strong>
   </td>
-  <td></td>
+  <td>
+    <ul>
+      <li>Inan et al. (2023), <a href="/assets/pdf/lecture19/llama-guard.pdf" target="_blank">Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations</a></li>
+      <li>Mazeika et al. (2024), <a href="/assets/pdf/lecture19/harmbench.pdf" target="_blank">HarmBench: A Standardized Unit Test for Benchmarking LLM Jailbreak and Defense Mechanisms</a></li>
+      <li>Perez et al. (2022), <a href="/assets/pdf/lecture19/red-teaming.pdf" target="_blank">Red Teaming Language Models with Language Models</a></li>
+    </ul>
+  </td>
   <td></td>
 </tr>
 
@@ -385,7 +391,13 @@ nav_order: 2
     Lecture #20:<br />
     <strong>VLM and Multimodal Agents</strong>
   </td>
-  <td></td>
+  <td>
+    <ul>
+      <li>Liu et al. (2023), <a href="/assets/pdf/lecture20/llava.pdf" target="_blank">Visual Instruction Tuning (LLaVA)</a></li>
+      <li>Yang et al. (2023), <a href="/assets/pdf/lecture20/mm-react.pdf" target="_blank">MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action</a></li>
+      <li>Lin et al. (2023), <a href="/assets/pdf/lecture20/vila.pdf" target="_blank">VILA: On Pre-training for Visual Language Models</a></li>
+    </ul>
+  </td>
   <td></td>
 </tr>
 
@@ -393,7 +405,7 @@ nav_order: 2
   <th scope="row">Su 04/05</th>
   <td></td>
   <td></td>
-  <td><p><span class="badge badge-pill badge-danger">HW 9 Due</span> | <span class="badge badge-pill badge-success">HW 10 Released</span></p></td>
+  <td><p><span class="badge badge-pill badge-danger">HW 9 Due</span> | <span class="badge badge-pill badge-success">HW 10 Released</span> - <a href="/assets/zip/homework-10-agents-for-robotics-spring-2026-v3.zip">Agents for Robotics</a></p></td>
 </tr>
 
 <tr class="upcoming">
@@ -402,7 +414,13 @@ nav_order: 2
     Lecture #21:<br />
     <strong>AI Agents for Robotics</strong>
   </td>
-  <td></td>
+  <td>
+    <ul>
+      <li>Ahn et al. (2022), <a href="/assets/pdf/lecture21/saycan.pdf" target="_blank">Do As I Can, Not As I Say: Grounding Language in Robotic Affordances (SayCan)</a></li>
+      <li>Driess et al. (2023), <a href="/assets/pdf/lecture21/palm-e.pdf" target="_blank">PaLM-E: An Embodied Multimodal Language Model</a></li>
+      <li>Liang et al. (2022), <a href="/assets/pdf/lecture21/code-as-policies.pdf" target="_blank">Code as Policies: Language Model Programs for Embodied Control</a></li>
+    </ul>
+  </td>
   <td></td>
 </tr>
 
@@ -412,7 +430,13 @@ nav_order: 2
     Lecture #22:<br />
     <strong>AI Agents for Material Discovery</strong>
   </td>
-  <td></td>
+  <td>
+    <ul>
+      <li>Bran et al. (2023), <a href="/assets/pdf/lecture22/chemcrow.pdf" target="_blank">ChemCrow: Augmenting large-language models with chemistry tools</a></li>
+      <li>Merchant et al. (2023), <a href="/assets/pdf/lecture22/gnome.pdf" target="_blank">Scaling deep learning for materials discovery (GNoME)</a></li>
+      <li>(2024), <a href="/assets/pdf/lecture22/autoscience.pdf" target="_blank">AutoScience: Multi-agent Collaboration for Scientific Discovery</a></li>
+    </ul>
+  </td>
   <td></td>
 </tr>
 
@@ -429,7 +453,13 @@ nav_order: 2
     Lecture #23:<br />
     <strong>AI Agents for CFD and FEA</strong>
   </td>
-  <td></td>
+  <td>
+    <ul>
+      <li>Li et al. (2023), <a href="/assets/pdf/lecture23/piml-survey.pdf" target="_blank">Physics-Informed Machine Learning for Fluid Dynamics: A Survey</a></li>
+      <li>(2023), <a href="/assets/pdf/lecture23/llm-eng-design.pdf" target="_blank">A Review of Large Language Models for Engineering Design</a></li>
+      <li>(2024), <a href="/assets/pdf/lecture23/piml-rag.pdf" target="_blank">Physics-Informed Agentic RAG</a></li>
+    </ul>
+  </td>
   <td></td>
 </tr>
 
@@ -451,7 +481,13 @@ nav_order: 2
     Lecture #24:<br />
     <strong>Massive Document Processing</strong>
   </td>
-  <td></td>
+  <td>
+    <ul>
+      <li>Lee et al. (2023), <a href="/assets/pdf/lecture24/replug.pdf" target="_blank">REPLUG: Retrieval-Augmented Black-Box Language Models</a></li>
+      <li>(2024), <a href="/assets/pdf/lecture24/unstructured.pdf" target="_blank">Unstructured Data Processing with LLMs</a></li>
+      <li>Chen et al. (2024), <a href="/assets/pdf/lecture24/longlora.pdf" target="_blank">LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models</a></li>
+    </ul>
+  </td>
   <td></td>
 </tr>
 
